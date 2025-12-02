@@ -1,3 +1,8 @@
+![Excel](https://img.shields.io/badge/Excel-4CAF50?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 📊 Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio. This repository highlights selected analytics projects showcasing my skills in data visualization, descriptive analytics, and insight generation using tools such as Power BI, Excel, Google Sheets, and SQL (learning).
