@@ -24,8 +24,7 @@ Key Insight:
 East Asia & the Pacific recorded the highest CO₂ emissions, while Sub-Saharan Africa had the lowest.
 
 🔗 Project Link:
-https://public.tableau.com/app/profile/emmanuel.bassey3555/viz/CO2EmissionsDashboard_17629679193280/Dashboard
-
+https://public.tableau.com/views/CO2EmissionsDashboard_17629679193280/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 🟩 Project 2: Customer Service Survey Analysis
@@ -84,4 +83,4 @@ Basic Statistical Reasoning
 
 Data Storytelling
 
-Visualization (Power BI, Excel, Google Sheets)
+Visualization (Tableau, Power BI, Excel, Google Sheets)
