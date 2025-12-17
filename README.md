@@ -48,8 +48,8 @@ Compared package popularity across customer segments
 Key Insight:
 Darker blue regions indicated higher satisfaction levels, revealing strong performance in specific countries and clear customer preference patterns.
 
-🔗 Project Link:
-https://docs.google.com/spreadsheets/d/1jOA9KcgD8g_BCHy8uCp7hC5v2n4SRV5PvuOj1kyJyDA/edit?usp=drivesdk&usp=embed_facebook&usp=embed_facebook
+🔗 Project link:
+https://docs.google.com/spreadsheets/d/1DWIKPvtci3Gq6Qbz15SjjY6l4wbc_4I-CpVaFDPneDA/edit?usp=drivesdk&resourcekey=0-OOpDEJqur_5qsHXNIt2Bqg
 
 ---
 
